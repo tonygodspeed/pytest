@@ -1,0 +1,1539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="02dc4ede-9956-4337-b5a8-adc6e7cd0d71" name="Default" comment="" />
+    <ignored path="tests.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/tests$MR_ACT_INSTALL_FX.coverage" NAME="MR_ACT_INSTALL_FX Coverage Results" MODIFIED="1466054597858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_INSTALL.coverage" NAME="MR_INSTALL Coverage Results" MODIFIED="1466054436891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_SILENTPOPWND.coverage" NAME="MR_SILENTPOPWND Coverage Results" MODIFIED="1480663924558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$Unittest_Test_testCReducer.coverage" NAME="Unittest Test.testCReducer Coverage Results" MODIFIED="1481014869504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py" />
+    <SUITE FILE_PATH="coverage/tests$MR_PLAY_MUSIC_.coverage" NAME="MR_PLAY_MUSIC_ Coverage Results" MODIFIED="1466054390700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$barcode_demo.coverage" NAME="barcode_demo Coverage Results" MODIFIED="1481017365751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples" />
+    <SUITE FILE_PATH="coverage/tests$MR_REGDLL.coverage" NAME="MR_REGDLL Coverage Results" MODIFIED="1462863733239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$barchart_demo.coverage" NAME="barchart_demo Coverage Results" MODIFIED="1481017185921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples" />
+    <SUITE FILE_PATH="coverage/tests$Unittest_Test_testBSort.coverage" NAME="Unittests in Test Coverage Results" MODIFIED="1462952718568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py" />
+    <SUITE FILE_PATH="coverage/tests$multiline.coverage" NAME="multiline Coverage Results" MODIFIED="1481097355430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples" />
+    <SUITE FILE_PATH="coverage/tests$MR_RECOM_QUIT.coverage" NAME="MR_RECOM_QUIT Coverage Results" MODIFIED="1478671969148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_APP_TREASURE.coverage" NAME="MR_APP_TREASURE Coverage Results" MODIFIED="1462863599236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_KSLIVE.coverage" NAME="MR_KSLIVE Coverage Results" MODIFIED="1466054406697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_RECOM_START.coverage" NAME="MR_RECOM_START Coverage Results" MODIFIED="1478743656248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_RECOM_CLICK.coverage" NAME="MR_RECOM_CLICK Coverage Results" MODIFIED="1467359444205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$importTopToDB.coverage" NAME="importTopToDB Coverage Results" MODIFIED="1479370744753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogAnalyze" />
+    <SUITE FILE_PATH="coverage/tests$MR_DISP_USB_DEVICE_FIND.coverage" NAME="MR_DISP_USB_DEVICE_FIND Coverage Results" MODIFIED="1471600625745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_1011_EXIT.coverage" NAME="MR_1011_EXIT Coverage Results" MODIFIED="1479354060252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$Unittest_Test_testCReducer__2_.coverage" NAME="Unittest Test.testCReducer (2) Coverage Results" MODIFIED="1481013331746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py" />
+    <SUITE FILE_PATH="coverage/tests$MR_DRTASKMGR.coverage" NAME="MR_DRTASKMGR Coverage Results" MODIFIED="1466054454038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_1007_PREINST_GMUSIC.coverage" NAME="MR_1007_PREINST_GMUSIC Coverage Results" MODIFIED="1472548374601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_DOWN_AD.coverage" NAME="MR_DOWN_AD Coverage Results" MODIFIED="1466054480827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_DISP_START_TASK.coverage" NAME="MR_DISP_START_TASK Coverage Results" MODIFIED="1473665321032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$Unittests_in_TestWorkbook.coverage" NAME="Unittests in TestWorkbook Coverage Results" MODIFIED="1460541151648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tests$calc_redis__1_.coverage" NAME="calc_redis (1) Coverage Results" MODIFIED="1479879148187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogAnalyze/ShellExtSql" />
+    <SUITE FILE_PATH="coverage/tests$Runner__.coverage" NAME="Runner__ Coverage Results" MODIFIED="1479437225914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogAnalyze" />
+    <SUITE FILE_PATH="coverage/tests$MR_USR_CLK_VISUALDBLCLK.coverage" NAME="MR_USR_CLK_VISUALDBLCLK Coverage Results" MODIFIED="1476845839562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_RECOM_HIT_RESULT.coverage" NAME="MR_RECOM_HIT_RESULT Coverage Results" MODIFIED="1466054369377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_RECOM_SHOW.coverage" NAME="MR_RECOM_SHOW Coverage Results" MODIFIED="1478671692628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_PLAY_MUSIC.coverage" NAME="MR_PLAY_MUSIC Coverage Results" MODIFIED="1478684929771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$RunnerRedis.coverage" NAME="RunnerRedis Coverage Results" MODIFIED="1479638937709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogAnalyze" />
+    <SUITE FILE_PATH="coverage/tests$MR_ERROR_LOG.coverage" NAME="MR_ERROR_LOG Coverage Results" MODIFIED="1466054448472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_MUSIC_REG.coverage" NAME="MR_MUSIC_REG Coverage Results" MODIFIED="1467704871111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_COMMON_START_1011.coverage" NAME="MR_COMMON_START_1011 Coverage Results" MODIFIED="1479354177961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_USR_CLK_WASAPI_STATE.coverage" NAME="MR_USR_CLK_WASAPI_STATE Coverage Results" MODIFIED="1468220027952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$color_by_yvalue.coverage" NAME="color_by_yvalue Coverage Results" MODIFIED="1481017406080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples" />
+    <SUITE FILE_PATH="coverage/tests$MR_DOWN_MUSIC.coverage" NAME="MR_DOWN_MUSIC Coverage Results" MODIFIED="1468483816815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$Unittest_Test_testMapper.coverage" NAME="Unittests in Test Coverage Results" MODIFIED="1461834610214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py" />
+    <SUITE FILE_PATH="coverage/tests$MR_RECOM_HIT_DETAILS.coverage" NAME="MR_RECOM_HIT_DETAILS Coverage Results" MODIFIED="1467082573555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$calc_redis.coverage" NAME="calc_redis Coverage Results" MODIFIED="1479803322016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogAnalyze/TestSql" />
+    <SUITE FILE_PATH="coverage/tests$MR_USR_CLK.coverage" NAME="MR_USR_CLK Coverage Results" MODIFIED="1466054346280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_ANDROID_CONNECT.coverage" NAME="MR_ANDROID_CONNECT Coverage Results" MODIFIED="1476779815206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$table2.coverage" NAME="table2 Coverage Results" MODIFIED="1481015708786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Enthought/Canopy32/User/Examples/pytables-2.3.1" />
+    <SUITE FILE_PATH="coverage/tests$MR_PLAY_MUSIC_BLKCNT.coverage" NAME="MR_PLAY_MUSIC_BLKCNT Coverage Results" MODIFIED="1465210739226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_1011_SHOW.coverage" NAME="MR_1011_SHOW Coverage Results" MODIFIED="1479364400714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_RECOM_START__1_.coverage" NAME="MR_RECOM_START (1) Coverage Results" MODIFIED="1472546943257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_1011_START.coverage" NAME="MR_1011_START Coverage Results" MODIFIED="1479352350835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_1007_CHECK_INST_GMUSIC.coverage" NAME="MR_1007_CHECK_INST_GMUSIC Coverage Results" MODIFIED="1477989256229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$Runner_.coverage" NAME="Runner_ Coverage Results" MODIFIED="1479292632626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogAnalyze" />
+    <SUITE FILE_PATH="coverage/tests$RunnerRedis__1_.coverage" NAME="RunnerRedis (1) Coverage Results" MODIFIED="1479696187294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogAnalyze/CalcByRedis" />
+    <SUITE FILE_PATH="coverage/tests$MR_UNINSTALL.coverage" NAME="MR_UNINSTALL Coverage Results" MODIFIED="1466054351958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_AB_LOG.coverage" NAME="MR_AB_LOG Coverage Results" MODIFIED="1466054603609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_PLAY_MUSIC_2U.coverage" NAME="MR_PLAY_MUSIC_2U Coverage Results" MODIFIED="1466066458863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_FEATURE_LOG.coverage" NAME="MR_FEATURE_LOG Coverage Results" MODIFIED="1469680133125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$barchart_demo2.coverage" NAME="barchart_demo2 Coverage Results" MODIFIED="1481097233194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples" />
+    <SUITE FILE_PATH="coverage/tests$axes_demo.coverage" NAME="axes_demo Coverage Results" MODIFIED="1481009480513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Enthought/Canopy32/User/Examples/matplotlib-1.1.0/pylab_examples" />
+    <SUITE FILE_PATH="coverage/tests$demo_text_path.coverage" NAME="demo_text_path Coverage Results" MODIFIED="1481017479952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples" />
+    <SUITE FILE_PATH="coverage/tests$table_demo__1_.coverage" NAME="table_demo (1) Coverage Results" MODIFIED="1481106580436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Enthought/Canopy32/User/Examples/matplotlib-1.1.0/pylab_examples" />
+    <SUITE FILE_PATH="coverage/tests$barh_demo.coverage" NAME="barh_demo Coverage Results" MODIFIED="1481017379845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples" />
+    <SUITE FILE_PATH="coverage/tests$demo_axes_divider.coverage" NAME="demo_axes_divider Coverage Results" MODIFIED="1481017057284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Python27_64/User/Examples/matplotlib-1.1.0/axes_grid" />
+    <SUITE FILE_PATH="coverage/tests$MR_RECOM_NOTHING_TO_SHOW.coverage" NAME="MR_RECOM_NOTHING_TO_SHOW Coverage Results" MODIFIED="1466054363127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_1003_QUIT.coverage" NAME="MR_1003_QUIT Coverage Results" MODIFIED="1467270146246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_1007_DGMUSIC.coverage" NAME="MR_1007_DGMUSIC Coverage Results" MODIFIED="1472547349496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$Runner.coverage" NAME="Runner Coverage Results" MODIFIED="1481106203061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogAnalyze" />
+    <SUITE FILE_PATH="coverage/tests$MR_1011_CLOSE.coverage" NAME="MR_1011_CLOSE Coverage Results" MODIFIED="1479354234209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_SW_DETECT_SW.coverage" NAME="MR_SW_DETECT_SW Coverage Results" MODIFIED="1471600239180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$Unittests_in_Runner.coverage" NAME="Unittests in Runner Coverage Results" MODIFIED="1476170163241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py" />
+    <SUITE FILE_PATH="coverage/tests$MR_DISP_GREEN_START.coverage" NAME="MR_DISP_GREEN_START Coverage Results" MODIFIED="1472032166519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_PLAY_MUSIC_quality.coverage" NAME="MR_PLAY_MUSIC_quality Coverage Results" MODIFIED="1466054379632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$Do_GetConfig.coverage" NAME="Do_GetConfig Coverage Results" MODIFIED="1476758403516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/KwShellScript" />
+    <SUITE FILE_PATH="coverage/tests$Unittests_in_Test.coverage" NAME="Unittests in Test Coverage Results" MODIFIED="1465894300652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py" />
+    <SUITE FILE_PATH="coverage/tests$demo_axes_grid.coverage" NAME="demo_axes_grid Coverage Results" MODIFIED="1481017121727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Python27_64/User/Examples/matplotlib-1.1.0/axes_grid" />
+    <SUITE FILE_PATH="coverage/tests$MR_1007_LOADER.coverage" NAME="MR_1007_LOADER Coverage Results" MODIFIED="1472547440110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$Unittest_Test_testReducer.coverage" NAME="Unittest Test.testReducer Coverage Results" MODIFIED="1461313202715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py" />
+    <SUITE FILE_PATH="coverage/tests$MR_PLAY_MUSIC_block_cnt.coverage" NAME="MR_PLAY_MUSIC_block_cnt Coverage Results" MODIFIED="1466054384590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$Unittest_Test_testBSort__1_.coverage" NAME="Unittests in Test Coverage Results" MODIFIED="1462342210612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py" />
+    <SUITE FILE_PATH="coverage/tests$1005_RecomTips.coverage" NAME="1005_RecomTips Coverage Results" MODIFIED="1479697928205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogAnalyze/CalcByRedis" />
+    <SUITE FILE_PATH="coverage/tests$table_demo.coverage" NAME="table_demo Coverage Results" MODIFIED="1481097391454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples" />
+    <SUITE FILE_PATH="coverage/tests$MR_DR_P2PSETTING.coverage" NAME="MR_DR_P2PSETTING Coverage Results" MODIFIED="1474627205559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_DISP_UPGRADE.coverage" NAME="MR_DISP_UPGRADE Coverage Results" MODIFIED="1467605313415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$zorder_demo.coverage" NAME="zorder_demo Coverage Results" MODIFIED="1481097550248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples" />
+    <SUITE FILE_PATH="coverage/tests$RunTest.coverage" NAME="RunTest Coverage Results" MODIFIED="1464147299485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/tests$MR_CRASHREPORT.coverage" NAME="MR_CRASHREPORT Coverage Results" MODIFIED="1474169616971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$LOCAL_TMP.coverage" NAME="LOCAL_TMP Coverage Results" MODIFIED="1468226627075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_CL_START.coverage" NAME="MR_CL_START Coverage Results" MODIFIED="1462414685303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py" />
+    <SUITE FILE_PATH="coverage/tests$DoRedis.coverage" NAME="DoRedis Coverage Results" MODIFIED="1481009036143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/KwShellScript" />
+    <SUITE FILE_PATH="coverage/tests$Unittest_Test_testCReducer__1_.coverage" NAME="Unittest Test.testCReducer (1) Coverage Results" MODIFIED="1481013256358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py" />
+    <SUITE FILE_PATH="coverage/tests$MR_RECOM_RUN.coverage" NAME="MR_RECOM_RUN Coverage Results" MODIFIED="1478672165899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$fill_between_demo.coverage" NAME="fill_between_demo Coverage Results" MODIFIED="1481017519776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples" />
+    <SUITE FILE_PATH="coverage/tests$MR_in_Test.coverage" NAME="MR in Test Coverage Results" MODIFIED="1481014896762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py" />
+    <SUITE FILE_PATH="coverage/tests$excel_tools.coverage" NAME="excel_tools Coverage Results" MODIFIED="1463391717219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogAnalyze" />
+    <SUITE FILE_PATH="coverage/tests$Unittest_Test_testAMapper.coverage" NAME="Unittests in Test Coverage Results" MODIFIED="1464676406054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py" />
+    <SUITE FILE_PATH="coverage/tests$analyze_data.coverage" NAME="analyze_data Coverage Results" MODIFIED="1462261809059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogAnalyze" />
+    <SUITE FILE_PATH="coverage/tests$manage.coverage" NAME="manage Coverage Results" MODIFIED="1464062927269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/django_test" />
+    <SUITE FILE_PATH="coverage/tests$MR_USR_CLK_VISUALCFGENABLED.coverage" NAME="MR_USR_CLK_VISUALCFGENABLED Coverage Results" MODIFIED="1466054340117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$spectrum_demo.coverage" NAME="spectrum_demo Coverage Results" MODIFIED="1481009349255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/tests$dispatcher.coverage" NAME="dispatcher Coverage Results" MODIFIED="1477990379867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py" />
+    <SUITE FILE_PATH="coverage/tests$ANDROID_CONNECT.coverage" NAME="ANDROID_CONNECT Coverage Results" MODIFIED="1476779624396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_RECOM_NO_KEY_REQ.coverage" NAME="MR_RECOM_NO_KEY_REQ Coverage Results" MODIFIED="1467268100774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_INSTALL_INFO.coverage" NAME="MR_INSTALL_INFO Coverage Results" MODIFIED="1466054417105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$Runner__1_.coverage" NAME="Runner (1) Coverage Results" MODIFIED="1481014854702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogAnalyze" />
+    <SUITE FILE_PATH="coverage/tests$MR_COMMON_START_1009.coverage" NAME="MR_COMMON_START_1009 Coverage Results" MODIFIED="1471600736832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_NSIS_UNINST.coverage" NAME="MR_NSIS_UNINST Coverage Results" MODIFIED="1472613123089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_UUIDGEN.coverage" NAME="MR_UUIDGEN Coverage Results" MODIFIED="1478672297296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_ACT_RECOMLOADER.coverage" NAME="MR_ACT_RECOMLOADER Coverage Results" MODIFIED="1478052464566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_AppStart.coverage" NAME="MR_AppStart Coverage Results" MODIFIED="1478672321828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$MR_WPS_LAUNCH.coverage" NAME="MR_WPS_LAUNCH Coverage Results" MODIFIED="1477474811699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+    <SUITE FILE_PATH="coverage/tests$RBase.coverage" NAME="RBase Coverage Results" MODIFIED="1479701897507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogAnalyze/CalcByRedis" />
+    <SUITE FILE_PATH="coverage/tests$table1.coverage" NAME="table1 Coverage Results" MODIFIED="1481015591004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Enthought/Canopy32/User/Examples/pytables-2.3.1" />
+    <SUITE FILE_PATH="coverage/tests$MR_FIRST_PLAY.coverage" NAME="MR_FIRST_PLAY Coverage Results" MODIFIED="1476850638202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/pythonscript/LogHadoopJob/py/MR" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="tests" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="analyze_data.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/pythonscript/LogAnalyze/analyze_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="204" column="34" selection-start-line="204" selection-start-column="34" selection-end-line="204" selection-end-column="34" />
+              <folding>
+                <element signature="e#36#46#0" expanded="true" />
+                <marker date="1481169168277" expanded="true" signature="1485:1545" placeholder="insert into ..." />
+                <marker date="1481169168277" expanded="true" signature="1781:1913" placeholder="create table..missing_value..." />
+                <marker date="1481169168277" expanded="true" signature="2030:2113" placeholder="insert into ..." />
+                <marker date="1481169168277" expanded="true" signature="5932:5987" placeholder="select k,v f..missing_value..." />
+                <marker date="1481169168277" expanded="true" signature="9777:9793" placeholder="Select k,v f..missing_value..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RBase.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/pythonscript/LogAnalyze/CalcByRedis/RBase.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.3174603">
+              <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+              <folding>
+                <element signature="e#1409#1426#0" expanded="false" />
+                <marker date="1479895269431" expanded="true" signature="603:624" placeholder="select count..missing_value..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShellExt.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/pythonscript/LogAnalyze/CalcByRedis/ShellExt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RBaseCommon.py" pinned="false" current-in-tab="true">
+        <entry file="file://E:/pythonscript/LogAnalyze/CalcByRedis/RBaseCommon.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.43505478">
+              <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="calc_redis.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/pythonscript/LogAnalyze/ShellExtSql/calc_redis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="103" column="53" selection-start-line="103" selection-start-column="53" selection-end-line="103" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__builtin__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm40/system/python_stubs/134326361/__builtin__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="importToDB.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/pythonscript/LogAnalyze/importToDB.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+              <folding>
+                <marker date="1481014398341" expanded="true" signature="6399:6468" placeholder="insert into ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Runner.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/pythonscript/LogAnalyze/Runner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="167" column="22" selection-start-line="167" selection-start-column="4" selection-end-line="167" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base_interface.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/pythonscript/LogAnalyze/base_interface.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chart_tools.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/pythonscript/LogAnalyze/chart_tools.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="12" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="E:/pythonscript/LogHadoopJob/py/MR/MR_USR_CLK_VISUALDBLCLK.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/MR/MR_FIRST_PLAY.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/MR/MR_UUIDGEN.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/check_valid.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/MR/MR_WPS_LAUNCH.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/MR/MR_1007_CHECK_INST_GMUSIC.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/MR/MR_RECOM_NOTHING_TO_SHOW.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/MR/MR_RECOM_HIT_RESULT.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/MR/MR_DRTASKMGR.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/MR/MR_ACT_INSTALL_FX.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/MR/MR_1003_QUIT.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/MR/MR_AppStart.py" />
+        <option value="E:/pythonscript/LogAnalyze/mailto.py" />
+        <option value="E:/pythonscript/LogAnalyze/check_valid.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/MR/MR_RECOM_START.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/MR/MR_RECOM_SHOW.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/MR/MR_RECOM_RUN.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/dispatcher.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/MR/MR_PLAY_MUSIC.py" />
+        <option value="E:/pythonscript/LogAnalyze/Runner_.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/MR/MR_1011_EXIT.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/MR/MR_1011_START.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/MR/MR_1011_PLAY_MUSIC.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/MR/MR_COMMON_START_1011.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/MR/MR_1011_CLOSE.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/MR/MR_1011_SHOW.py" />
+        <option value="E:/pythonscript/LogAnalyze/importTopToDB.py" />
+        <option value="E:/pythonscript/LogAnalyze/Runner__.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/MR/MR_BASE.py" />
+        <option value="E:/pythonscript/LogAnalyze/CalcByRedis/RunnerRedis.py" />
+        <option value="E:/pythonscript/LogAnalyze/CalcByRedis/1005_RecomTips.py" />
+        <option value="E:/pythonscript/LogAnalyze/common.py" />
+        <option value="E:/pythonscript/LogAnalyze/TestSql/do_sql_before.sql" />
+        <option value="E:/pythonscript/LogAnalyze/TestSql/test.sql" />
+        <option value="E:/pythonscript/LogAnalyze/CalcByRedis/r_recom_tips.py" />
+        <option value="E:/pythonscript/LogAnalyze/TestSql/calc_redis.py" />
+        <option value="E:/pythonscript/LogAnalyze/RunnerRedis.py" />
+        <option value="E:/pythonscript/LogAnalyze/ShellExtSql/calc_redis.py" />
+        <option value="E:/pythonscript/LogAnalyze/CalcByRedis/RBaseCommon.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/MR/MR_RECOM_QUIT.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/MR/MR_SILENTPOPWND.py" />
+        <option value="E:/pythonscript/KwShellScript/DoRedis.py" />
+        <option value="E:/pythonscript/LogHadoopJob/py/Runner.py" />
+        <option value="E:/pythonscript/LogAnalyze/importToDB.py" />
+        <option value="E:/pythonscript/LogAnalyze/analyze_data_orderdict.py" />
+        <option value="E:/pythonscript/LogAnalyze/DoSQLs.py" />
+        <option value="E:/pythonscript/LogAnalyze/DBTools.py" />
+        <option value="E:/pythonscript/LogAnalyze/analyze_data.py" />
+        <option value="E:/pythonscript/LogAnalyze/Runner.py" />
+        <option value="E:/pythonscript/LogAnalyze/chart_tools.py" />
+        <option value="E:/pythonscript/LogAnalyze/CalcByRedis/RBase.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1014" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Google App Engine (Python)</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonscript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonscript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LogHadoopJob" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="E:/pythonscript" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="django_test" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="django_test" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\python\xlrd-0.9.4\tests" />
+      <recent name="E:\pythonscript\LogHadoopJob\py\MR" />
+      <recent name="E:\pythonscript\LogAnalyze\CalcByRedis" />
+      <recent name="E:\pythonscript\KwShellScript" />
+      <recent name="E:\pythonscript\LogAnalyze" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\pythonscript\LogHadoopJob\py" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.table_demo (1)">
+    <configuration default="false" name="multiline" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonscript" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples/multiline.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="table_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonscript" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples/table_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="zorder_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonscript" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples/zorder_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Runner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/pythonscript/LogAnalyze" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonscript" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/pythonscript/LogAnalyze/Runner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="table_demo (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Enthought/Canopy32/User/Examples/matplotlib-1.1.0/pylab_examples" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tests" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Enthought/Canopy32/User/Examples/matplotlib-1.1.0/pylab_examples/table_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tests" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tests" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tests" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonscript" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tests" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tests" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tests" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tests" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tests" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tests" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="django_test" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="django_test" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Django server.django_test" />
+      <item index="1" class="java.lang.String" itemvalue="Python.multiline" />
+      <item index="2" class="java.lang.String" itemvalue="Python.table_demo" />
+      <item index="3" class="java.lang.String" itemvalue="Python.zorder_demo" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Runner" />
+      <item index="5" class="java.lang.String" itemvalue="Python.table_demo (1)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.table_demo (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Runner" />
+        <item index="2" class="java.lang.String" itemvalue="Python.zorder_demo" />
+        <item index="3" class="java.lang.String" itemvalue="Python.table_demo" />
+        <item index="4" class="java.lang.String" itemvalue="Python.multiline" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02dc4ede-9956-4337-b5a8-adc6e7cd0d71" name="Default" comment="" />
+      <created>1460517441665</created>
+      <option name="number" value="Default" />
+      <updated>1460517441665</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_Test - 2016.06.06 at 17h 20m 00s.xml">
+      <configuration name="Unittests in Test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Test - 2016.06.07 at 10h 45m 59s.xml">
+      <configuration name="Unittests in Test" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1014" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23428571" sideWeight="0.25416666" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852387" sideWeight="0.49375" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28114286" sideWeight="0.61510414" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963374" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2078125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15208334" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2697143" sideWeight="0.49164927" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2902857" sideWeight="0.74583334" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/test_workbook.py</url>
+          <line>18</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/test_workbook.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogHadoopJob/py/Runner.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/chart_tools.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogHadoopJob/py/reducer.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogHadoopJob/py/MR/MR_REGDLL.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="360" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogHadoopJob/py/MR/MR_REGDLL.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogHadoopJob/py/MR/MR_USR_CLK.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="372" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogHadoopJob/py/MR/MR_INSTALL_INFO.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="380" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogHadoopJob/py/MR/MR_UNINSTALL.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="394" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/excel_tools.py</url>
+          <line>242</line>
+          <option name="timeStamp" value="474" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/excel_tools.py</url>
+          <line>292</line>
+          <option name="timeStamp" value="485" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/excel_tools.py</url>
+          <line>200</line>
+          <option name="timeStamp" value="486" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/excel_tools.py</url>
+          <line>177</line>
+          <option name="timeStamp" value="487" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/excel_tools.py</url>
+          <line>176</line>
+          <option name="timeStamp" value="488" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/Runner.py</url>
+          <line>199</line>
+          <option name="timeStamp" value="494" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/Runner.py</url>
+          <line>196</line>
+          <option name="timeStamp" value="495" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/analyze_data.py</url>
+          <line>308</line>
+          <option name="timeStamp" value="512" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/excel_tools.py</url>
+          <line>270</line>
+          <option name="timeStamp" value="513" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogHadoopJob/py/MR/MR_DOWN_AD.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="547" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogHadoopJob/py/MR/MR_RECOM_HIT_DETAILS.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="549" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogHadoopJob/py/MR/new/MR_RECOM_START.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="581" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogHadoopJob/py/MR/new/MR_RECOM_START.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="582" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogHadoopJob/py/MR/new/MR_RECOM_START.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="583" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/Runner.py</url>
+          <line>116</line>
+          <option name="timeStamp" value="599" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogHadoopJob/py/MR/MR_DR_P2PSETTING.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="607" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogHadoopJob/py/MR/MR_USR_CLK_VISUALDBLCLK.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="678" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogHadoopJob/py/MR/MR_BASE.py</url>
+          <line>122</line>
+          <option name="timeStamp" value="679" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogHadoopJob/py/MR/MR_BASE.py</url>
+          <line>113</line>
+          <option name="timeStamp" value="680" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogHadoopJob/py/MR/MR_1011_PLAY_MUSIC.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="765" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://C:/Python27/Lib/site-packages/MySQL_python-1.2.5-py2.7-win32.egg/MySQLdb/cursors.py</url>
+          <line>249</line>
+          <option name="timeStamp" value="773" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/importTopToDB.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="775" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/importTopToDB.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="776" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/importTopToDB.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="778" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/analyze_data.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="845" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/RunnerRedis.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="848" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/RunnerRedis.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="851" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/analyze_data.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="852" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/analyze_data.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="858" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/analyze_data.py</url>
+          <line>178</line>
+          <option name="timeStamp" value="880" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/analyze_data.py</url>
+          <line>179</line>
+          <option name="timeStamp" value="887" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/CalcByRedis/RBase.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="896" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/CalcByRedis/RBase.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="905" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/KwShellScript/DoRedis.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="906" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/Runner.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="908" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/analyze_data.py</url>
+          <line>303</line>
+          <option name="timeStamp" value="939" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/analyze_data.py</url>
+          <line>223</line>
+          <option name="timeStamp" value="946" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/pythonscript/LogAnalyze/analyze_data.py</url>
+          <line>191</line>
+          <option name="timeStamp" value="947" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Enthought/Canopy32/User/Examples/matplotlib-1.1.0/pylab_examples/table_demo.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="948" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="949" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://E:/pythonscript/LogHadoopJob/py/MR/MR_USR_CLK_VISUALCFGENABLED.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6284153">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/spectrum_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Enthought/Canopy32/User/Lib/site-packages/IPython/utils/traitlets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/pythonscript/LogHadoopJob/py/reducer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Enthought/Canopy32/User/Examples/pytables-2.3.1/table1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="14" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Enthought/Canopy32/User/Examples/pytables-2.3.1/table2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27_64/User/Lib/site-packages/tables/description.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="936" column="42" selection-start-line="936" selection-start-column="42" selection-end-line="936" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27_64/User/Examples/matplotlib-1.1.0/axes_grid/demo_axes_divider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="34" selection-start-line="59" selection-start-column="34" selection-end-line="59" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27_64/User/Examples/matplotlib-1.1.0/axes_grid/demo_axes_grid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="92" column="23" selection-start-line="92" selection-start-column="23" selection-end-line="92" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples/barchart_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/pythonscript/KwShellScript/DoRedis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples/color_by_yvalue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="22" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples/demo_text_path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="68" column="12" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples/fill_between_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples/barh_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples/barcode_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples/barchart_demo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples/multiline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples/table_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="54" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27_64/User/Examples/matplotlib-1.1.0/pylab_examples/zorder_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/pythonscript/LogHadoopJob/py/Runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="76" column="7" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
+          <folding>
+            <element signature="e#23#33#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/pythonscript/LogAnalyze/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27_64/User/Lib/site-packages/IPython/utils/traitlets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/pythonscript/LogAnalyze/get_zip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Enthought/Canopy/App/appdata/canopy-1.7.4.3348.win-x86_64/Lib/collections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="114" column="0" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/pythonscript/LogAnalyze/excel_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="271" column="0" selection-start-line="271" selection-start-column="0" selection-end-line="271" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/pythonscript/LogAnalyze/analyze_data_1207.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="266" column="51" selection-start-line="266" selection-start-column="51" selection-end-line="266" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/pythonscript/LogAnalyze/DoSQLs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27_64/User/Lib/site-packages/matplotlib/docstring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="120" column="4" selection-start-line="120" selection-start-column="4" selection-end-line="120" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Enthought/Canopy32/User/Examples/matplotlib-1.1.0/pylab_examples/table_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="81" column="15" selection-start-line="81" selection-start-column="15" selection-end-line="81" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27_64/User/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3557" column="30" selection-start-line="3557" selection-start-column="30" selection-end-line="3557" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27_64/User/Lib/site-packages/matplotlib/axes/_axes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5683" column="24" selection-start-line="5683" selection-start-column="24" selection-end-line="5683" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27_64/User/Lib/site-packages/matplotlib/artist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="298" column="35" selection-start-line="298" selection-start-column="35" selection-end-line="298" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27_64/User/Lib/site-packages/matplotlib/table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="215" column="17" selection-start-line="215" selection-start-column="17" selection-end-line="215" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27_64/User/Lib/site-packages/pymysql/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/pythonscript/LogAnalyze/DBTools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="77" column="27" selection-start-line="77" selection-start-column="27" selection-end-line="77" selection-end-column="27" />
+          <folding>
+            <element signature="e#17#31#0" expanded="true" />
+            <marker date="1481102722132" expanded="true" signature="-1:-1" placeholder="SELECT SCHEM..SCHEMATA..." />
+            <marker date="1481102722132" expanded="true" signature="-1:-1" placeholder="DROP TABLE I..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27_64/User/Lib/site-packages/redis/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RBase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding>
+            <marker date="1479895269431" expanded="true" signature="-1:-1" placeholder="select count..missing_value..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Python27/Lib/site-packages/redis-2.10.5-py2.7.egg!/redis/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="5" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/pythonscript/LogAnalyze/analyze_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="204" column="34" selection-start-line="204" selection-start-column="34" selection-end-line="204" selection-end-column="34" />
+          <folding>
+            <element signature="e#36#46#0" expanded="true" />
+            <marker date="1481169168277" expanded="true" signature="1485:1545" placeholder="insert into ..." />
+            <marker date="1481169168277" expanded="true" signature="1781:1913" placeholder="create table..missing_value..." />
+            <marker date="1481169168277" expanded="true" signature="2030:2113" placeholder="insert into ..." />
+            <marker date="1481169168277" expanded="true" signature="5932:5987" placeholder="select k,v f..missing_value..." />
+            <marker date="1481169168277" expanded="true" signature="9777:9793" placeholder="Select k,v f..missing_value..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/pythonscript/LogAnalyze/importToDB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding>
+            <marker date="1481014398341" expanded="true" signature="6399:6468" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/pythonscript/LogAnalyze/Runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="167" column="22" selection-start-line="167" selection-start-column="4" selection-end-line="167" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/pythonscript/LogAnalyze/base_interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/pythonscript/LogAnalyze/chart_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm40/system/python_stubs/134326361/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/pythonscript/LogAnalyze/ShellExtSql/calc_redis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="103" column="53" selection-start-line="103" selection-start-column="53" selection-end-line="103" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/pythonscript/LogAnalyze/CalcByRedis/RBase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3174603">
+          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding>
+            <element signature="e#1409#1426#0" expanded="false" />
+            <marker date="1479895269431" expanded="true" signature="603:624" placeholder="select count..missing_value..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/pythonscript/LogAnalyze/CalcByRedis/ShellExt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/pythonscript/LogAnalyze/CalcByRedis/RBaseCommon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43505478">
+          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
